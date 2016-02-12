@@ -1,0 +1,70 @@
+/* ==============================================
+Orange Color Skin
+=============================================== */
+
+::-moz-selection {
+ background: #E47911;
+}
+::selection {
+	background: #E47911;
+}
+
+
+.btn-home a,
+.skillbar-title,
+.skillbar-bar,
+#filters li span.active,
+#filters li span:hover,
+#filters li span:focus,
+.btn-primary,
+.label-primary,
+#contact input.submit,
+.blog-list li:hover,
+.cbp-l-filters-button .cbp-filter-item-active,
+.cbp-l-filters-button .cbp-filter-counter,
+.nav > li > a:hover, .nav > li > a:focus,
+.shop-btn-box:hover,
+.pagination > .active > a {
+	background: #E47911;
+}
+
+
+a,
+.about-icon .fa-circle,
+.highlight,
+figure figcaption a:hover,
+.dropdown-menu > li > a:hover, 
+.navbar-default .navbar-nav > .hovernav:hover > a,
+.navbar-default .navbar-nav > .hovernav:hover > a:hover, 
+.nav > li > a:hover, 
+.nav > li > span:hover, 
+.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,  
+.portfolio-links a:hover,
+.portfolio-links .icon:hover,
+.connected-icon a:focus,
+.connected-icon a:hover,
+.btn-link,
+.post-title a:hover,
+.post-title a:focus,
+#main-nav .current,
+.star-rating span,
+.twitter-logo .fa,
+.footer-logo a:hover,
+.effects .img a:hover
+ {
+	color: #E47911;
+}
+
+
+.phone-info {
+	background: rgba(228, 121, 17, 0.2);
+}
+
+.cbp-l-filters-button .cbp-filter-counter:before {
+	border-top: 4px solid #E47911;
+}
+
+.btn-home a {
+    box-shadow: 0 3px 0 rgba(228, 121, 17, .5);
+}
