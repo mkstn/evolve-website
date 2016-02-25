@@ -1,0 +1,156 @@
+/* Theme Panel */
+
+#theme-panel {
+	position: fixed;
+	width:212px;
+	height: auto;
+	top:150px;
+	min-height: 200px;
+	text-align:left;
+	background:white;
+	border:1px solid #f1f1f1;
+	z-index: 11;
+	border-top-right-radius:3px;
+	border-bottom-right-radius:3px;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.panel-close {
+	left:-212px;
+}
+
+.panel-open {
+	left:-1px;
+}
+
+.theme-panel-title {
+	width:100%;
+	padding:15px 15px;
+}
+.colors-container {
+	width: 100%;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	padding-right: 20px;
+	padding-top: 15px;
+}
+#theme-panel a.panel-btn {
+	position: absolute;
+	font-size:30px;
+	width:50px;
+	height: 50px;
+	background:white;
+	right:-50px;
+	top:30px;
+	text-align: center;
+	line-height: 47px;
+	cursor: pointer;
+	border:1px solid #f1f1f1;
+	border-top-right-radius:3px;
+	border-bottom-right-radius:3px;
+}
+.icon-spin {
+  -webkit-animation: spin 2s infinite linear;
+  -moz-animation: spin 2s infinite linear;
+  -o-animation: spin 2s infinite linear;
+  animation: spin 2s infinite linear;
+}
+@-moz-keyframes spin {
+  0% {
+    -moz-transform: rotate(0deg);
+  }
+  100% {
+    -moz-transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+  }
+}
+@-o-keyframes spin {
+  0% {
+    -o-transform: rotate(0deg);
+  }
+  100% {
+    -o-transform: rotate(359deg);
+  }
+}
+@-ms-keyframes spin {
+  0% {
+    -ms-transform: rotate(0deg);
+  }
+  100% {
+    -ms-transform: rotate(359deg);
+  }
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
+#theme-panel .colors-container a.color-switch{
+	width:27px;
+	height: 27px;
+	display: inline-block;
+	margin-right:2px;
+	margin-top:5px;
+	border:1px solid #f1f1f1;
+	cursor: pointer;
+}
+
+.pink {
+	background: #ec005f;
+}
+.blue-2 {
+	background: #00bbf0;
+}
+.blue {
+	background: #2ac5ee;+
+}
+.purple{
+	background: #563d7c;
+}
+.green {
+	background: #89c144;
+}
+.green-2 {
+	background: #2baab1;
+}
+.yellow {
+	background: #f1dd00;
+}
+.orange {
+	background: #E47911;
+}
+.red {
+	background: #D80018;
+}
+.red-2 {
+	background: #e36159;
+}
+.red-3 {
+	background: #D40436;
+}
+.pink-2 {
+	background: #ec008c;
+}
+.beige {
+	background: #b8a279;
+}
+.midnight {
+	background: #2c3e50;
+}
+.black {
+	background: #272727;
+}
+
