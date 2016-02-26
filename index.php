@@ -134,11 +134,11 @@ $current_year = date("Y", time());
                 <div class="container content">
                     
                     <div class="col-lg-12 section-title-about wow fadeInUp">
-                        <h2><small>We Are Wunderkind</small> <br>Making Your Brand Shine</h2>
-                        <p class="lead">We create experiences that <span class="highlight">transform brands</span>, grow businesses <br>and make people’s lives better. Building brands and driving sales with powerful ideas.</p>
+                        <!-- <h2><small>We Are Wunderkind</small> <br>Making Your Brand Shine</h2> -->
+                        <p class="lead">Seeing the uproar of development events at NSIT in the recent times, <a href="http://ieeensit.org/about-cs/" target="_blank">IEEE NSIT CS Chapter</a> has recently launched ‘e.volve’, the software development society of NSIT, which has seen the merge of the top notch developers and coding enthusiasts of our Institution and will be the batton holder of all software hackathons, tech talks and open source development events at NSIT. With the establishment of this society, NSIT will witness an ever more increase in the culture of software development, reaching the paradigms of web development, and open source coding.</p>
                     </div>
                     
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
                             <div class="about-row">
                                 <div class="about-icon">
@@ -163,9 +163,9 @@ $current_year = date("Y", time());
                                 </div>
                             </div>
                         </div>
-                    </div>   
+                    </div>    -->
                     
-                    <div class="row">
+<!--                     <div class="row">
                         <div class="col-md-6 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
                             <div class="about-row">
                                 <div class="about-icon">
@@ -190,14 +190,14 @@ $current_year = date("Y", time());
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                 </div>
             </section>
             <!--End About-->
             
             <!-- Start Who We Are -->
-            <section id="who-we-are" data-stellar-background-ratio="0.6">
+            <!-- <section id="who-we-are" data-stellar-background-ratio="0.6">
                 <div class="row" style="position:relative;">
                 	<div class="parallax-overlay"></div> 
                     <div class="container">
@@ -240,11 +240,11 @@ $current_year = date("Y", time());
                 		</div> 
                 	</div>
                 </div>
-            </section>
+            </section> -->
         	<!-- End Who We Are -->
             
             <!-- Start Team -->
-            <section id="team">
+            <!-- <section id="team">
             	<div class="container">
                     <div class="row">
                         
@@ -321,11 +321,11 @@ $current_year = date("Y", time());
                         
                     </div>
                 </div>
-			</section>
+			</section> -->
             <!-- End Team -->
             
             <!-- Start Separator Video -->
-            <section id="separator-video" data-stellar-background-ratio="0.6">  	
+            <!-- <section id="separator-video" data-stellar-background-ratio="0.6">  	
                     <div class="container">
                     	<div class="row">
                         	<div class="col-md-6 separator-video-content wow fadeInUp">
@@ -346,11 +346,11 @@ $current_year = date("Y", time());
                             
                         </div>
                     </div>
-            </section>
+            </section> -->
         	<!-- End Separator Video -->
             
             <!-- Start Fun Facts -->
-            <section id="fun-facts">
+            <!-- <section id="fun-facts">
             	<div class="container">
                 	<div class="row">
                     	<div class="col-md-3 col-sm-6 fact-container wow fadeInUp" data-wow-delay="0.1s">
@@ -379,7 +379,7 @@ $current_year = date("Y", time());
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- End Fun Facts -->
             
             <!-- Start Separator-Quotes -->
@@ -389,17 +389,17 @@ $current_year = date("Y", time());
                     
                     <div class="quotes liquid-slider" id="quotes-slider">
                         <div class="col-lg-12">
-                            <h2><i class="fa fa-quote-left highlight"></i> <small class="white">A Perfect Design is </small>Passion, Dedication,<small class="white"> and a lots of Coffee</small> <i class="fa fa-quote-right highlight"></i></h2>
-                            <p class="label label-primary">ORIGIN / DESIGN TEAM</p>
+                            <h2><i class="fa fa-quote-left highlight"></i>learn. code. evolve.<i class="fa fa-quote-right highlight"></i></h2>
+                            <!-- <p class="label label-primary">ORIGIN / DESIGN TEAM</p> -->
                         </div>
-                        <div class="col-lg-12">
+                        <!-- <div class="col-lg-12">
                             <h2><i class="fa fa-quote-left highlight"></i> <small class="white">The Difference between ordinary and extraordinary is </small>just that little extra <i class="fa fa-quote-right highlight"></i></h2>
                             <p class="label label-primary">ALBERT EINSTEIN</p>
-                        </div>
-                        <div class="col-lg-12">
+                        </div> -->
+                        <!-- <div class="col-lg-12">
                             <h2><i class="fa fa-quote-left highlight"></i> The Desire to Create <small class="white">is One of the Deepest Yearnings of the Human Soul</small> <i class="fa fa-quote-right highlight"></i></h2>
                             <p class="label label-primary">DIETER F. UCHTDORF</p>
-                        </div>
+                        </div> -->
             		</div>
                     
                 </div>
@@ -407,7 +407,7 @@ $current_year = date("Y", time());
         	<!-- End Separator-Quotes -->
             
             <!-- Start Services -->
-            <section id="services">
+            <!-- <section id="services">
                 <div class="container">
                     
                     <div class="col-lg-12 section-title wow fadeIn">
@@ -493,11 +493,11 @@ $current_year = date("Y", time());
                 	</div>
                     
                 </div>
-            </section>
+            </section> -->
             <!-- End Services -->
             
             <!-- Start Separator Call to Action -->
-            <section id="separator-purchase" data-stellar-background-ratio="0.6">
+            <!-- <section id="separator-purchase" data-stellar-background-ratio="0.6">
             	<div class="container">
                     <div class="col-sm-12 call-action-purchase text-center">
 				        <span>
@@ -508,7 +508,7 @@ $current_year = date("Y", time());
                         </span>
 					</div>
                 </div>
-            </section>
+            </section> -->
             <!-- End Separator Call to Action -->
             
             <!-- Start Portfolio Section -->  
@@ -766,7 +766,7 @@ $current_year = date("Y", time());
             <!-- End Clients -->
 
             <!-- Start Get Connected -->
-            <section id="get-connected" data-stellar-background-ratio="0.7">
+            <!-- <section id="get-connected" data-stellar-background-ratio="0.7">
                 <div class="row text-center" style="position:relative;">
                 	<div class="parallax-overlay"></div> 
                 	
@@ -845,11 +845,11 @@ $current_year = date("Y", time());
                     	</ul>        
                 	</div>    
                 </div>
-            </section>
+            </section> -->
             <!-- End Get Connected -->    
             
             <!-- Start Price List -->
-            <section id="price-list">
+            <!-- <section id="price-list">
                 <div class="container">
                     <div class="col-lg-12 section-title-price wow fadeInUp">
                         <h2><small>Pick Some of</small><br><strong>Our Latest Offers</strong></h2>
@@ -921,11 +921,11 @@ $current_year = date("Y", time());
                     	</div>        
                 	</div>
             	</div>
-            </section>        
+            </section>         -->
             <!-- End Price List -->
             
             <!-- Start Contact Details -->
-            <section id="contact-details" data-stellar-background-ratio="0.7">
+<!--             <section id="contact-details" data-stellar-background-ratio="0.7">
             	<div class="row text-center" style="position:relative;">
                 	<div class="parallax-overlay"></div> 
                     <div class="container">
@@ -942,11 +942,11 @@ $current_year = date("Y", time());
                             </div>
                     </div>
             	</div>
-            </section>
+            </section> -->
             <!-- End Contact Details -->
             
             <!-- Start Contact Form -->
-            <section id="contact-form">
+<!--             <section id="contact-form">
             	<div class="container">
                 	<div class="col-lg-12 section-title-price wow fadeInUp">
                         <h2><small>Get In Touch</small><br><strong>Contact Us</strong></h2>
@@ -973,7 +973,7 @@ $current_year = date("Y", time());
                         </form>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- End Contact Form -->
             
             <!-- Start Google Map -->
