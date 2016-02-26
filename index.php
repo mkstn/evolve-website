@@ -1,4 +1,8 @@
+<?php
 
+$current_year = date("Y", time());
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -6,7 +10,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Wunderkind - Responsive HTML5 Onepage Parallax Theme</title>
+        <title>e.volve - Software Development Society of NSIT</title>
         <meta name="description" content="A Template by Vossen Design"/>
         <meta name="keywords" content="HTML5, Bootstrap 3, CSS3, javascript, PHP, onepage, responsive, mobile"/>
         <meta name="author" content="Vossen Design"/>
@@ -17,7 +21,7 @@
         <link href="css/style.css" rel="stylesheet">
         
         <!-- Skin Color -->
-        <link rel="stylesheet" href="css/colors/red.css" id="color-skins"/> 
+        <link rel="stylesheet" href="css/colors/green.css" id="color-skins"/> 
         
 	</head>
 	<body>
@@ -35,7 +39,7 @@
             <div class="home-container text-center">
             	<div class="home-title liquid-slider" id="slider-home">
                 	<div>
-                        <h1><small class="white">We Are Wunderkind</small> <br><strong>Something You Love</strong></h1>
+                        <h1><small class="white">e.volve</small> <br><strong>Something You Love</strong></h1>
                         <p class="lead">We are digital agency that loves crafting beautiful websites with great functionality.</p>
                         <div class="home-btn">
                             <h4 class="btn-home"><a href="#about">WE'RE CREATIVE</a></h4>
@@ -111,11 +115,11 @@
                             </li>
                             
                             <li><a href="#contact-form">Contact</a></li>
-                            <li><a href="http://themeforest.net/item/wunderkind-one-page-parallax-theme/7601990"><span class="btn btn-primary btn-buy">Buy Now</span></a></li> 
+                            <!-- <li><a href="http://themeforest.net/item/wunderkind-one-page-parallax-theme/7601990"><span class="btn btn-primary btn-buy">Buy Now</span></a></li>  -->
                           
-                            <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li>
-                            <li><a class="social-icon" href="#"><i class="icon icon-social-facebook"></i></a></li>
-                            <li><a class="social-icon" href="#"><i class="icon icon-support"></i></a></li>
+                            <!-- <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li> -->
+                            <li><a class="social-icon" target="_blank" href="https://www.facebook.com/evolve.nsit/"><i class="icon icon-social-facebook"></i></a></li>
+                            <li><a class="social-icon" href="mailto:evolve@nsitonline.in"><i class="icon icon-support"></i></a></li>
                           
                       </ul>
                     </div><!-- /.navbar-collapse -->
@@ -989,17 +993,18 @@
                 	<div class="row">
                     	<div class="col-md-12 footer-social">
                             <ul class="connected-icons text-center">
-                                <li class="connected-icon"><a target="_blank" href="#"><i class="fa fa-twitter fa-2-5x"></i></a></li>
-                                <li class="connected-icon"><a target="_blank" href="#"><i class="fa fa-facebook fa-2-5x"></i></a></li>
-                                <li class="connected-icon"><a target="_blank" href="#"><i class="fa fa-instagram fa-2-5x"></i></a></li>
+                                <!-- <li class="connected-icon"><a target="_blank" href="#"><i class="fa fa-twitter fa-2-5x"></i></a></li> -->
+                                <li class="connected-icon"><a target="_blank" href="https://www.facebook.com/evolve.nsit/"><i class="fa fa-facebook fa-2-5x"></i></a></li>
+                                <li class="connected-icon"><a href="mailto:evolve@nsitonline.in"><i class="fa fa-envelope-o fa-2-5x"></i></a></li>
+                                <!-- <li class="connected-icon"><a target="_blank" href="#"><i class="fa fa-instagram fa-2-5x"></i></a></li> -->
                             </ul>
                         </div>
                         
-                        <p>Making your brand shine!</p>
-                        <h4 class="footer-logo"><a href="#">Wunderkind</a></h4>
+                        <p>learn. code. evolve.</p>
+                        <h4 class="footer-logo"><a href="#">e.volve</a></h4>
                         
                         <div class="col-lg-12 footer-menu">
-                            <span class="pull-left">Copyright © 2014 <a href="#" style="margin:0;">Wunderkind</a>. All Rights Reserved.</span>
+                            <span class="pull-left">Copyright © <?php echo $current_year; ?> <a href="#" style="margin:0;">e.volve</a>. All Rights Reserved.</span>
                             <span class="pull-right">
                                 <a href="#home">Home</a>
                                 <a href="#about">About</a>
@@ -1018,7 +1023,7 @@
 		</div>
     
         <!-- Start Theme Panel Style Switcher -->
-        <section id="theme-panel" class="panel-close">
+<!--         <section id="theme-panel" class="panel-close">
             <a class="panel-btn"><i class="ion-gear-a"></i></a>
             <div class="theme-panel-title">
                 <h4>Style Switcher</h4>
@@ -1044,7 +1049,7 @@
             <div class="colors-container">
             	<p class="" style="color:#999;font-size:11px;">These Color Skins are included inside the theme, and also you can easily create your own one! There are unlimited possibilities!</p>
             </div>
-        </section>
+        </section> -->
     	<!-- End Theme Panel Style Switcher -->  
         
         <!-- jQuery Plugins -->

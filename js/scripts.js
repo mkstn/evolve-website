@@ -190,14 +190,18 @@
     ------------*/ 
     $("#map").gmap3({
         marker:{     
-        address:"93 Worth St, New York, NY", 
-        options:{ icon: "img/assets/marker.png"}},
+            address:"NSIT",
+            options:{
+                icon: "img/assets/marker.png"
+            },
+            // latLng: [28.6091356, 77.0328799],
+        },
         map:{
         options:{
         styles: [ {
         stylers: [ { "saturation":-100 }, { "lightness": 0 }, { "gamma": 0.5 }]},
         ],
-        zoom: 13,
+        zoom: 17,
         scrollwheel:false,
         draggable: true }
         }
