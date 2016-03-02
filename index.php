@@ -70,7 +70,6 @@ $current_year = date("Y", time());
                             <li><a href="#footer">Contact</a></li>
                             <li><a class="social-icon" target="_blank" href="https://www.facebook.com/evolve.nsit/"><i class="icon icon-social-facebook"></i></a></li>
                             <li><a class="social-icon" href="mailto:evolve@nsitonline.in"><i class="icon icon-support"></i></a></li>
-                          
                       </ul>
                     </div>
 				</div>
@@ -82,7 +81,7 @@ $current_year = date("Y", time());
                 <div class="container content">
                     
                     <div class="col-lg-12 section-title-about wow fadeInUp">
-                        <p class="lead">Seeing the uproar of development events at NSIT in the recent times, <a href="http://ieeensit.org/about-cs/" target="_blank">IEEE NSIT CS Chapter</a> has recently launched ‘e.volve’, the software development society of NSIT, which has seen the merge of the top notch developers and coding enthusiasts of our Institution and will be the batton holder of all software hackathons, tech talks and open source development events at NSIT. With the establishment of this society, NSIT will witness an ever more increase in the culture of software development, reaching the paradigms of web development, and open source coding.</p>
+                        <p class="lead">Seeing the uproar of development events at NSIT in the recent times, <a href="http://ieeensit.org/about-cs/" target="_blank">IEEE NSIT CS Chapter</a> has recently launched ‘e.volve’, the software development society of NSIT, which has seen the merge of the top notch developers and coding enthusiasts of our institution and will be the batton holder of all software hackathons, tech talks and open source development events at NSIT. With the establishment of this society, NSIT will witness an ever more increase in the culture of software development, reaching the paradigms of web development and open source coding.</p>
                     </div>
                 </div>
             </section>
@@ -93,7 +92,7 @@ $current_year = date("Y", time());
                     
                     <div class="quotes liquid-slider" id="quotes-slider">
                         <div class="col-lg-12">
-                            <h2><i class="fa fa-quote-left highlight"></i>learn. code. evolve.<i class="fa fa-quote-right highlight"></i></h2>
+                            <h2><i class="fa fa-quote-left highlight"></i> learn. code. evolve. <i class="fa fa-quote-right highlight"></i></h2>
                         </div>
             		</div>
                     
@@ -144,10 +143,10 @@ $current_year = date("Y", time());
                         </div>
                         
                         <p>learn. code. evolve.</p>
-                        <h4 class="footer-logo"><a href="#">e.volve</a></h4>
+                        <h4 class="footer-logo"><a href="/">e.volve</a></h4>
                         
                         <div class="col-lg-12 footer-menu">
-                            <span class="pull-left">Copyright © <?php echo $current_year; ?> <a href="#" style="margin:0;">e.volve</a>. All Rights Reserved.</span>
+                            <span class="pull-left">Copyright © <?php echo $current_year; ?> <a href="/" style="margin:0;">e.volve</a>. All Rights Reserved.</span>
                             <span class="pull-right">
                                 <a href="#home">Home</a>
                                 <a href="#about">About</a>
