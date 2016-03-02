@@ -181,6 +181,7 @@ $current_year = date("Y", time());
         <script src="https://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script> 
         <script src="js/plugins/gmap3.min.js" type="text/javascript"></script> 
         <script src="js/plugins/revslider.min.js" type="text/javascript"></script> 
-		<script src="js/scripts.js" type="text/javascript"></script>  
+		<script src="js/scripts.js" type="text/javascript"></script>
+        
 	</body>
 </html>
