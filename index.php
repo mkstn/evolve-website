@@ -11,11 +11,11 @@ $current_year = date("Y", time());
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>e.volve - Software Development Society of NSIT</title>
-        <meta name="description" content="A Template by Vossen Design"/>
-        <meta name="keywords" content="HTML5, Bootstrap 3, CSS3, javascript, PHP, onepage, responsive, mobile"/>
-        <meta name="author" content="Vossen Design"/>
+        <meta name="description" content="E.volve - Software Development Society of NSIT"/>
+        <meta name="keywords" content="NSIT, Delhi, E.volve, Evolve, development society, NSIT society, development, dev society, software development, software society, Delhi hackathons, Delhi software"/>
+        <meta name="author" content="E.volve NSIT"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-       	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon"> 
+       	<!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">  -->
         
         <link href="css/style.css" rel="stylesheet">
         <link rel="stylesheet" href="css/colors/green.css" id="color-skins"/> 
@@ -59,7 +59,7 @@ $current_year = date("Y", time());
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
 					    </button>
-                        <a class="navbar-brand" href="#"><img src="img/assets/logo.png" alt=""></a>
+                        <a class="navbar-brand" href="#"><img src="" alt=""></a>
 					</div>
 
                     <div class="collapse navbar-collapse" id="main-nav">
@@ -81,7 +81,7 @@ $current_year = date("Y", time());
                 <div class="container content">
                     
                     <div class="col-lg-12 section-title-about wow fadeInUp">
-                        <p class="lead">Seeing the uproar of development events at NSIT in the recent times, <a href="http://ieeensit.org/about-cs/" target="_blank">IEEE NSIT CS Chapter</a> has recently launched ‘e.volve’, the software development society of NSIT, which has seen the merge of the top notch developers and coding enthusiasts of our institution and will be the batton holder of all software hackathons, tech talks and open source development events at NSIT. With the establishment of this society, NSIT will witness an ever more increase in the culture of software development, reaching the paradigms of web development and open source coding.</p>
+                        <p class="lead">Seeing the uproar of development events at NSIT in the recent times, <a href="http://ieeensit.org/about-cs/" target="_blank">IEEE NSIT CS Chapter</a> has recently launched ‘e.volve’, the software development society of NSIT, which has seen the merge of the top notch developers and coding enthusiasts of our institution and will be the batton holder of all software hackathons, tech talks and open source development events at NSIT. With the establishment of this society, NSIT will witness an ever more increase in the culture of software development, reaching the paradigms of web development and open source contributions.</p>
                     </div>
                 </div>
             </section>
