@@ -33,7 +33,7 @@ $current_year = date("Y", time());
                 	<div>
                         <h1><small class="white">e.volve</small> <br><strong>Software Development Society of NSIT</strong></h1>
                         <div class="home-btn">
-                            <h4 class="btn-home"><a href="#about">WE'RE AWESOME AND WE KNOW IT</a></h4>
+                            <h4 class="btn-home"><a href="#about">KNOW MORE</a></h4>
                         </div>
                     </div>
             	</div>
@@ -81,7 +81,7 @@ $current_year = date("Y", time());
                 <div class="container content">
                     
                     <div class="col-lg-12 section-title-about wow fadeInUp">
-                        <p class="lead">Seeing the uproar of development events at NSIT in the recent times, <a href="http://ieeensit.org/about-cs/" target="_blank">IEEE NSIT CS Chapter</a> has recently launched ‘e.volve’, the software development society of NSIT, which has seen the merge of the top notch developers and coding enthusiasts of our institution and will be the batton holder of all software hackathons, tech talks and open source development events at NSIT. With the establishment of this society, NSIT will witness an ever more increase in the culture of software development, reaching the paradigms of web development and open source contributions.</p>
+                        <p class="lead">Sensing the surge of development events at the campus in the recent times, <a href="http://ieeensit.org/about-cs/" target="_blank">IEEE NSIT CS Chapter</a> has recently launched <strong>'e.volve'- The Software Development Society of NSIT</strong>. With the idea to be the rallying point for all the top-notch developers and coding enthusiasts of our institution,'e.volve' will be the baton holder of all software hackathons, tech talks and open-source development events at NSIT. With the establishment of this society, NSIT will witness an ever more increase in the culture of software development, reaching the paradigms of web-development and open-source contributions.</p>
                     </div>
                 </div>
             </section>
@@ -105,21 +105,23 @@ $current_year = date("Y", time());
                     <div class="col-lg-12 section-title wow fadeInUp">
                         <br>
                         <h2><strong>Hack@NSIT 2016</strong><br><small>Annual Software Hackathon of NSIT</small></h2>
-                        <p class="lead">
-                            <hr>
-                            Location : <a href="#map"><strong>Netaji Subhas Institute of Technology, Delhi</strong></a><br>
-                            Maximum team size : <strong>4 human members</strong><br>
-                            Participation : <strong>40 teams</strong><br>
-                            Duration : <strong>24 Hours</strong><br>
-                            <hr>
-                            <strong>Hack@NSIT 2016</strong> is the second iteration of NSIT's very own Annual Software Hackathon. For 24 intense hours, more than 150 of the most talented students from around the world will push the limits of technology.
-                            <hr>
-                            <strong><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Hack%40NSIT+2016&iso=20160409T10&p1=176" target="_blank">9th April 2016 - 10th April 2016</a></strong>
-                            <h4 class="btn-home">
-                                <a href="https://evolvensit.typeform.com/to/HkAlf9" target="_blank">REGISTER NOW</a>
-                            </h4>
-                            <hr>
-                        </p>
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <p class="lead">
+                                <hr>
+                                Location : <a href="#map"><strong>Netaji Subhas Institute of Technology, Delhi</strong></a><br>
+                                Maximum team size : <strong>4 human members</strong><br>
+                                Participation : <strong>40 teams</strong><br>
+                                Duration : <strong>24 Hours</strong><br>
+                                <hr>
+                                <strong>Hack@NSIT 2016</strong> is the second iteration of NSIT's very own Annual Software Hackathon. For 24 intense hours, more than 150 of the most talented students from around the world will push the limits of technology.<br><br>Have an awesome idea you’ve been meaning to build? This is your chance.<br><br>Keen on learning all about a new piece of technology? Hack@NSIT 2016 is the place to be.<br><br>We bring the most influential mentors, unlimited coffee, wifi, food and an adrenaline fueled environment powered by some of the world’s best companies. Bring your laptops (and it's charger too), creativity, and a desire to make a difference in a big way - all this with a chance to pocket hefty prizes worth Rs. 70k.
+                                <hr>
+                                <strong><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Hack%40NSIT+2016&iso=20160409T10&p1=176" target="_blank">9th April 2016 - 10th April 2016</a></strong>
+                                <h4 class="btn-home">
+                                    <a href="https://evolvensit.typeform.com/to/HkAlf9" target="_blank">REGISTER NOW</a>
+                                </h4>
+                                <hr>
+                            </p>
+                        </div>
                     </div>                  
                 </div>
             </section>
