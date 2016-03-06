@@ -114,9 +114,10 @@ $current_year = date("Y", time());
                             <hr>
                             <strong>Hack@NSIT 2016</strong> is the second iteration of NSIT's very own Annual Software Hackathon. For 24 intense hours, more than 150 of the most talented students from around the world will push the limits of technology.
                             <hr>
-                            <strong>2nd April 2016 - 3rd April 2016</strong>
-                            <hr>
-                            Stay Tuned for more updates
+                            <strong><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Hack%40NSIT+2016&iso=20160409T10&p1=176" target="_blank">9th April 2016 - 10th April 2016</a></strong>
+                            <h4 class="btn-home">
+                                <a href="https://evolvensit.typeform.com/to/HkAlf9" target="_blank">REGISTER NOW</a>
+                            </h4>
                             <hr>
                         </p>
                     </div>                  
