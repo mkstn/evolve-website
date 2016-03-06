@@ -6,3 +6,5 @@ RewriteRule ^(.*)$ /index.php?/$1 [L]
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+ErrorDocument 404 http://www.evolve-nsit.com
