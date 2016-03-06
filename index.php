@@ -153,6 +153,7 @@ $current_year = date("Y", time());
                                 <a href="#about">About</a>
                                 <a href="#hackathon">Hack@NSIT</a>
                                 <a href="#contact">Contact</a>
+                                <a href="https://github.com/prabhakar267/evolve-website">Fork this on GitHub</a>
                             </span>
                         </div>  
         			</div>
